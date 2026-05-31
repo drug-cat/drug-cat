@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a passionate engineer and developer with a unique blend of **hardware design** and **full-stack software development**. Specializing in bridging the gap between physical systems and digital solutions through embedded systems, circuit design, and systems programming.
+I'm a passionate engineer and developer with a unique blend of **hardware design** and **full-stack software development**. Specializing in bridging the gap between physical systems and digital solutions through innovative engineering.
 
 Currently focused on building innovative projects that combine PCB design, industrial automation, and software development. Open to collaborations in hardware design, embedded systems, and IoT solutions.
 
@@ -37,46 +37,35 @@ Ruby        █████████░░░░░░░░░░░ 50%  | 
 
 ### ⚡ Hardware & Systems Engineering
 
-```
-╔═════════════════════════════════════════════════════════════╗
-║           🔌 PCB DESIGN & CIRCUIT ENGINEERING               ║
-╠═════════════════════════════════════════════════════════════╣
-║  ✓ PCB Design (IPC Standard Certified)                     ║
-║    └─ Multi-layer boards (2 to 32 layers)                  ║
-║    └─ High-speed and RF-aware routing                      ║
-║  ✓ RF Circuit Design & Antenna Design                      ║
-║  ✓ Neuromorphic Circuit Design                             ║
-║  ✓ High-Power Circuit Design                               ║
-║    └─ International Certification                          ║
-║  ✓ Signal Integrity & EMI/EMC Analysis                     ║
-╚═════════════════════════════════════════════════════════════╝
+**🔌 PCB DESIGN & CIRCUIT ENGINEERING**
+- ✓ PCB Design (IPC Standard Certified)
+  - Multi-layer boards (2 to 32 layers)
+  - High-speed and RF-aware routing
+- ✓ RF Circuit Design & Antenna Design
+- ✓ Neuromorphic Circuit Design
+- ✓ High-Power Circuit Design
+  - International Certification
+- ✓ Signal Integrity & EMI/EMC Analysis
 
-╔═════════════════════════════════════════════════════════════╗
-║           🖥️  CAD & MECHANICAL DESIGN                       ║
-╠═════════════════════════════════════════════════════════════╣
-║  ✓ SolidWorks Expert Level                                 ║
-║    └─ Parts Design, Assembly Modeling                      ║
-║    └─ Technical Drawings & Documentation                   ║
-║    └─ FEA Simulation & Analysis                            ║
-║    └─ Motion Study & Kinematics                            ║
-║  ✓ Hydraulic Systems Design & Analysis                     ║
-║  ✓ Pneumatic Systems Design & Control                      ║
-║  ✓ Mechanical Engineering Fundamentals                     ║
-╚═════════════════════════════════════════════════════════════╝
+**🖥️ CAD & MECHANICAL DESIGN**
+- ✓ SolidWorks Expert Level
+  - Parts Design, Assembly Modeling
+  - Technical Drawings & Documentation
+  - FEA Simulation & Analysis
+  - Motion Study & Kinematics
+- ✓ Hydraulic Systems Design & Analysis
+- ✓ Pneumatic Systems Design & Control
+- ✓ Mechanical Engineering Fundamentals
 
-╔═════════════════════════════════════════════════════════════╗
-║           ⚙️  INDUSTRIAL AUTOMATION & CONTROL               ║
-╠═════════════════════════════════════════════════════════════╣
-║  ✓ PLC Programming (Ladder Logic, Structured Text)         ║
-║    └─ Siemens S7 Series (S7-200 through S7-1500)           ║
-║    └─ Real-time Control Systems                            ║
-║  ✓ LPIC 1 & 2 Certified (In Progress)                      ║
-║    └─ Linux System Administration                          ║
-║    └─ Network Management & Security                        ║
-║  ✓ Network+ Certification (In Progress)                    ║
-║  ✓ Industrial IoT & SCADA Systems                          ║
-╚═════════════════════════════════════════════════════════════╝
-```
+**⚙️ INDUSTRIAL AUTOMATION & CONTROL**
+- ✓ PLC Programming (Ladder Logic, Structured Text)
+  - Siemens S7 Series (S7-200 through S7-1500)
+  - Real-time Control Systems
+- ✓ LPIC 1 & 2 Certified (In Progress)
+  - Linux System Administration
+  - Network Management & Security
+- ✓ Network+ Certification (In Progress)
+- ✓ Industrial IoT & SCADA Systems
 
 ---
 
@@ -121,17 +110,16 @@ Automated code generation and system optimization tool
 ## 📈 Statistics & Contributions
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  GitHub Activity                         ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  Active Repositories: Growing 📈         ┃
-┃  Primary Languages: Python, Assembly, Go ┃
-┃  Focus Areas:                            ┃
-┃    • Hardware Design & PCB Engineering   ┃
-┃    • Systems Programming                 ┃
-┃    • Industrial Automation               ┃
-┃    • Embedded Systems Development        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+GitHub Activity
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Active Repositories: Growing 📈
+Primary Languages: Python, Assembly, Go
+Focus Areas:
+  • Hardware Design & PCB Engineering
+  • Systems Programming
+  • Industrial Automation
+  • Embedded Systems Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
