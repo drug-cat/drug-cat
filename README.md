@@ -1,4 +1,4 @@
-# 🚀 Tahan Arimani | Hardware Engineer & Full-Stack Developer
+#  Hardware Engineer & Full-Stack Developer
 
 <div align="center">
 
