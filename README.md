@@ -97,13 +97,13 @@ Deep dive into low-level programming with assembly language analysis tools. Buil
 ---
 
 ### 🎵 **Radio City** *(Coming Soon)*
-Advanced audio processing and streaming system
+a special network connection for ai and deep learning .....
 
 ### 🎶 **Napster** *(Coming Soon)*
-Distributed music platform with peer-to-peer architecture
+that is a reall hunter ! but ai one ......
 
 ### 🔧 **MoidGen** *(Coming Soon)*
-Automated code generation and system optimization tool
+this project is a real magic that ai can do !......... wait for it
 
 ---
 
