@@ -1,214 +1,179 @@
-#  Hardware Engineer & Full-Stack Developer
-
 <div align="center">
 
-### 🔧 Crafting Innovation Through Code & Circuits
+```text
+  ██████╗ ██████╗ ██╗   ██╗ ██████╗       ██████╗ █████╗ ████████╗
+  ██╔══██╗██╔══██╗██║   ██║██╔════╝      ██╔════╝██╔══██╗╚══██╔══╝
+  ██║  ██║██████╔╝██║   ██║██║  ███╗     ██║     ███████║   ██║
+  ██║  ██║██╔══██╗██║   ██║██║   ██║     ██║     ██╔══██║   ██║
+  ██████╔╝██║  ██║╚██████╔╝╚██████╔╝     ╚██████╗██║  ██║   ██║
+  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝       ╚═════╝╚═╝  ╚═╝   ╚═╝
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=drug-cat&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/drug-cat?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/drug-cat?style=social&label=GitHub%20Stars)
+### `LOW-LEVEL ENGINEERING // EMBEDDED SYSTEMS // BUILDING FROM ZERO`
+
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=2DE2C5&center=true&vCenter=true&width=700&lines=I+work+close+to+the+machine.;Embedded+systems.+Assembly.+Digital+logic.;I+build+tools%2C+languages%2C+and+engines.;Less+magic.+More+understanding.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=2DE2C5&center=true&vCenter=true&width=700&lines=I+work+close+to+the+machine.;Embedded+systems.+Assembly.+Digital+logic.;I+build+tools%2C+languages%2C+and+engines.;Less+magic.+More+understanding." alt="Animated introduction" />
+</a>
+
+[ `REPOSITORIES` ](https://github.com/drug-cat?tab=repositories) ·
+[ `PROJECTS` ](https://github.com/drug-cat?tab=repositories) ·
+[ `SOURCE CODE` ](https://github.com/drug-cat)
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm a passionate engineer and developer with a unique blend of **hardware design** and **full-stack software development**. Specializing in bridging the gap between physical systems and digital solutions through innovative engineering.
-
-Currently focused on building innovative projects that combine PCB design, industrial automation, and software development. Open to collaborations in hardware design, embedded systems, and IoT solutions.
-
----
-
-## 💻 Technical Stack
-
-### 🔤 Programming Languages
-
-```
-Python      ████████████████████ 95%  | Data, Automation, AI/ML
-Rust        ██████████████████░░ 85%  | Systems Programming, Performance
-Go          ████████████████░░░░ 80%  | Concurrent Systems, Backends
-C++         ██████████████░░░░░░ 75%  | Embedded, Performance Critical
-C           ██████████████░░░░░░ 75%  | Low-level, Microcontrollers
-Assembly    ███████████░░░░░░░░░ 60%  | Hardware Optimization, ASMFLOW
-PHP         ██████████░░░░░░░░░░ 55%  | Web Development
-Ruby        █████████░░░░░░░░░░░ 50%  | Scripting, Automation
+```text
+┌─ IDENTITY ────────────────────────────────────────────────────────────────┐
+│  HANDLE   drug-cat                                                        │
+│  CORE     Embedded Systems / Low-Level Software / Digital Design          │
+│  MODE     Design → Implement → Measure → Debug → Repeat                   │
+│  BIRTH    28 December 2008                                                │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### ⚡ Hardware & Systems Engineering
+I'm an **embedded systems engineer** drawn to the layers most people prefer to abstract away: registers, memory, instruction sets, timing, interfaces, and the boundary between software and hardware.
 
-**🔌 PCB DESIGN & CIRCUIT ENGINEERING**
-- ✓ PCB Design (IPC Standard Certified)
-  - Multi-layer boards (2 to 32 layers)
-  - High-speed and RF-aware routing
-- ✓ RF Circuit Design & Antenna Design
-- ✓ Neuromorphic Circuit Design
-- ✓ High-Power Circuit Design
-  - International Certification
-- ✓ Signal Integrity & EMI/EMC Analysis
+I build more than applications. I work on **programming languages, engineering tools, inventory software, and a game engine written in pure assembly**. Some projects are public today; others are still being developed and will be released when they're ready to be inspected.
 
-**🖥️ CAD & MECHANICAL DESIGN**
-- ✓ SolidWorks Expert Level
-  - Parts Design, Assembly Modeling
-  - Technical Drawings & Documentation
-  - FEA Simulation & Analysis
-  - Motion Study & Kinematics
-- ✓ Hydraulic Systems Design & Analysis
-- ✓ Pneumatic Systems Design & Control
-- ✓ Mechanical Engineering Fundamentals
+> **My rule:** if I depend on a system, I want to understand what happens underneath it.
 
-**⚙️ INDUSTRIAL AUTOMATION & CONTROL**
-- ✓ PLC Programming (Ladder Logic, Structured Text)
-  - Siemens S7 Series (S7-200 through S7-1500)
-  - Real-time Control Systems
-- ✓ LPIC 1 & 2 Certified (In Progress)
-  - Linux System Administration
-  - Network Management & Security
-- ✓ Network+ Certification (In Progress)
-- ✓ Industrial IoT & SCADA Systems
+## `01 / THE WORKBENCH`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎯 Core Competencies
+### [`3dre`](https://github.com/drug-cat/3dre)
+`GAME ENGINE / X86-64 ASSEMBLY`
 
-| **Category** | **Expertise** |
-|-------------|---------------|
-| **Hardware Design** | PCB Design (IPC), RF Circuits, Power Electronics, Neuromorphic Systems, EMI/EMC Analysis |
-| **Software Development** | Full-stack development, Systems programming, Automation scripting, Embedded systems |
-| **Industrial Systems** | PLC Programming, SCADA, Hydraulic/Pneumatic Control, Real-time Systems |
-| **CAD & Simulation** | SolidWorks (Parts, Assembly, FEA), MATLAB, Circuit Simulation Tools |
-| **Systems & Networking** | Linux Administration, Network Configuration, Security Principles |
-| **Certifications** | LPIC 1 & 2 (in progress), Network+ (in progress), High-Power Circuit Design |
+A 3D game-engine project built around the challenge of working at the machine level instead of hiding behind a high-level implementation language.
 
----
+**Focus:** assembly · engine architecture · rendering internals
 
-## 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 📡 **ASMFLOW** 
-*Advanced Assembly Language Analysis & Flow Visualization Framework*
+### [`QPLC`](https://github.com/drug-cat/QPLC)
+`LANGUAGE DESIGN / INDUSTRIAL AUTOMATION`
 
-Deep dive into low-level programming with assembly language analysis tools. Building comprehensive understanding of CPU architecture, instruction sets, and program flow visualization.
+A high-level language project for expressing PLC control logic with a more structured programming experience.
 
-- **Status**: 🔄 Active Development
-- **Technologies**: Assembly, Python, C, Systems Programming
-- **Repository**: [ASMFLOW](https://github.com/drug-cat/ASMFLOW)
-- **Focus**: Assembly optimization, reverse engineering, performance analysis
+**Focus:** language design · compiler/toolchain concepts · PLC workflows
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎵 **Radio City** *(Coming Soon)*
-a special network connection for ai and deep learning .....
+### [`ASMFLOW`](https://github.com/drug-cat/ASMFLOW)
+`LOW-LEVEL COMPUTING`
 
-### 🎶 **Napster** *(Coming Soon)*
-that is a reall hunter ! but ai one ......
+An experimental computing project exploring low-level implementation and performance-oriented kernels.
 
-### 🔧 **MoidGen** *(Coming Soon)*
-this project is a real magic that ai can do !......... wait for it
+**Focus:** assembly · systems programming · computation
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 Statistics & Contributions
+### [`VoltGrid`](https://github.com/drug-cat/VoltGrid)
+`ENGINEERING SOFTWARE / INVENTORY`
 
+An inventory-management project for organizing electronic components and engineering supplies.
+
+**Focus:** practical tooling · component organization · engineering workflows
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More in development / not all work is public yet</b></summary>
+
+I'm also developing and exploring projects in areas such as:
+
+- A programming language and its tooling.
+- An inventory-management application.
+- A game engine written in pure assembly.
+- Embedded hardware/software systems and other engineering tools.
+
+This list describes project directions, not a claim that every item is finished or production-ready. Public repositories remain the source of truth for implementation and status.
+
+</details>
+
+## `02 / LANGUAGE STACK`
+
+*Listed in my current order of familiarity — not percentage scores.*
+
+```text
+MOST FAMILIAR
+     │
+     ▼
+  [ Python  ]  ██████████  tooling · automation · experiments
+  [ C++     ]  █████████   systems · performance-aware software
+  [ Assembly]  ████████    machine-level programming · engine internals
+  [ C       ]  ███████     embedded · low-level software
+  [ Verilog ]  ██████      digital logic · hardware description
+  [ VHDL    ]  █████       digital design · hardware description
+     │
+     ▼
+ALSO IMPORTANT: understanding the machine matters more than collecting languages.
 ```
-GitHub Activity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Active Repositories: Growing 📈
-Primary Languages: Python, Assembly, Go
-Focus Areas:
-  • Hardware Design & PCB Engineering
-  • Systems Programming
-  • Industrial Automation
-  • Embedded Systems Development
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## `03 / ENGINEERING DOMAINS`
+
+```text
+┌────────────────────┐  ┌────────────────────┐  ┌────────────────────┐
+│  EMBEDDED SYSTEMS  │  │  MACHINE-LEVEL     │  │  DIGITAL LOGIC     │
+│  MCU / peripherals │  │  ISA / memory      │  │  Verilog / VHDL    │
+│  HW ↔ SW boundary  │  │  assembly / debug  │  │  hardware thinking │
+└────────────────────┘  └────────────────────┘  └────────────────────┘
+
+┌────────────────────┐  ┌────────────────────┐  ┌────────────────────┐
+│  LANGUAGE DESIGN   │  │  GAME TECHNOLOGY   │  │  ENGINEERING TOOLS │
+│  syntax / tooling  │  │  engine internals  │  │  practical software│
+│  compilers / DSLs  │  │  build from zero   │  │  real workflows    │
+└────────────────────┘  └────────────────────┘  └────────────────────┘
 ```
 
----
-
-## 📚 Currently Learning & Advancing
-
-- 🔐 **Network+ Certification** (Active Learning)
-- 🐧 **LPIC Advanced Concepts** (LPIC-2 in Progress)
-- 🔌 **Advanced RF Circuit Design** & Antenna Theory
-- ⚙️ **Industrial IoT** & Edge Computing
-- 🌐 **Distributed Systems** Architecture & Design
-- 🤖 **Machine Learning** for Signal Processing
-- 🔒 **Cybersecurity** Fundamentals & Best Practices
-
----
-
-## 🛠️ Tools & Technologies
-
-**Design & Simulation**: SolidWorks • KiCAD • MATLAB • LTspice • Altium Designer
-
-**Development**: Git • Docker • Linux • VS Code • GDB • Wireshark
-
-**Platforms**: Siemens PLC • Arduino • Raspberry Pi • STM32 Microcontrollers
-
-**Languages**: Python • Rust • Go • C++ • C • Assembly • PHP • Ruby
-
----
-
-## 🤝 Let's Connect & Collaborate
+## `04 / LIVE TELEMETRY`
 
 <div align="center">
 
-### 📬 Get in Touch
+<img src="https://github-readme-stats.vercel.app/api?username=drug-cat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DE2C5&icon_color=F7C873&text_color=C9D1D9" alt="GitHub stats" />
 
-| Platform | Contact |
-|:--------:|:--------:|
-| 📧 **Email** | [tahanarimani3443@gmail.com](mailto:tahanarimani3443@gmail.com) |
-| 💬 **Discord** | [Join Community](https://discord.gg/M4T8cXhW) |
-| 📱 **Telegram** | [@drug_cat_community](https://t.me/drug_cat_community) |
-| 🐙 **GitHub** | [@drug-cat](https://github.com/drug-cat) |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drug-cat&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DE2C5&text_color=C9D1D9" alt="Most used languages in public repositories" />
 
----
-
-### 💼 Open to Opportunities
-
-**Looking for collaborations in:**
-- 🔌 Hardware Design & PCB Engineering
-- 🖥️ Embedded Systems Development
-- ⚡ Circuit Design & Analysis
-- 🤖 PLC & Industrial Automation
-- 💻 Full-Stack Development
-- 🌐 IoT & Connected Systems
-- 🔐 Systems Programming
-
-**Interested in**: Internships • Freelance Projects • Open-Source Contributions • Tech Partnerships
+<img src="https://streak-stats.demolab.com?user=drug-cat&hide_border=true&background=0D1117&ring=2DE2C5&fire=F7C873&currStreakLabel=2DE2C5&sideLabels=C9D1D9&dates=7F8C98" alt="GitHub contribution streak" />
 
 </div>
 
----
+<sub>Third-party stats can be cached or temporarily unavailable. Repository language percentages are not a measure of skill.</sub>
 
-## 🎓 Core Philosophy
+## `05 / OPERATING PRINCIPLES`
 
-> *Building tomorrow's solutions today through the intersection of hardware engineering and software development.*
+```text
+[01] Understand before abstracting.
+[02] Measure before claiming performance.
+[03] Debug the cause, not the symptom.
+[04] Keep unfinished work clearly labeled.
+[05] Build tools when existing tools are not enough.
+[06] Prefer inspectable systems over black boxes.
+```
 
-### Values & Principles
+## `06 / TRANSMISSION LOG`
 
-- 📖 **Continuous Learning**: Stay ahead with emerging technologies
-- 🤝 **Collaborative Mindset**: Best solutions come from diverse perspectives
-- 🔧 **Practical Implementation**: Theory translates to working solutions
-- 📊 **Quality & Standards**: IPC standards, industry best practices
-- 🚀 **Innovation-Driven**: Push boundaries, explore new possibilities
-- 🎯 **Attention to Detail**: Excellence in design and execution
-
----
+```text
+> scanning public repositories...
+> identifying low-level experiments...
+> more systems under construction
+> release status: follow the repositories
+```
 
 <div align="center">
 
-### ⭐ Support My Work
+[![Explore repositories](https://img.shields.io/badge/OPEN_THE_WORKBENCH-181717?style=for-the-badge&logo=github&logoColor=2DE2C5)](https://github.com/drug-cat?tab=repositories)
 
-If you find my projects useful, please consider:
-- ⭐ Starring repositories
-- 🔄 Contributing improvements
-- 📢 Sharing with others
-- 💬 Providing feedback
-
----
-
-**Last Updated**: May 2026 | *Constantly Evolving & Improving* 🚀
-
-*Passionate about engineering, code, and innovation. Always open to exciting challenges!*
+<sub>`DRUG-CAT` — built close to the machine.</sub>
 
 </div>
